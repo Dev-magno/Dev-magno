@@ -4,7 +4,16 @@ Tenho interesse contínuo em tecnologia, inovação e boas práticas em desenvol
 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas — UNIFAVIP
--- 💻 Com formação técnica no Senac Maranhão (Programador de Sistemas e Programador Web)
+- 💻 Com formação técnica no Senac Maranhão (Programador de Sistemas e Programador Web)
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default"/>
+</div>
+
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
