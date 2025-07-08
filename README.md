@@ -33,13 +33,12 @@ Tenho interesse contínuo em tecnologia, inovação e boas práticas em desenvol
 
 </div>
 
----
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-magnolopes%238946-5865F2?logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/magnolopes%238946)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magno-lopes-0b6125312/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ti.magnodev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/magnolopes12?igsh=MTR1M2drdDJpODg0Mw==)
