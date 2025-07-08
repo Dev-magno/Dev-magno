@@ -7,8 +7,6 @@ Tenho interesse contínuo em tecnologia, inovação e boas práticas em desenvol
 - 💻 Com formação técnica no Senac Maranhão (Programador de Sistemas e Programador Web)
 ---
 
-## 📊 GitHub Stats
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
 
 <div align="center">  
