@@ -28,7 +28,7 @@ Tenho interesse contínuo em tecnologia, inovação e boas práticas em desenvol
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
 </div>
